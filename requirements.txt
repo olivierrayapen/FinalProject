@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+plotly
+scikit-learn
+tensorflow
+keras
+beautifulsoup4
+requests
+scrapy
+Flask
+Django
+FastAPI
+SQLAlchemy
+psycopg2

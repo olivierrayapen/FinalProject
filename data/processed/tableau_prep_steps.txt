@@ -1,0 +1,28 @@
+
+        1. Connect to Main Data:
+           - Open Tableau
+           - Connect to Text File
+           - Select 'tableau_main_data.csv'
+           - Verify automatic data type detection
+        
+        2. Adjust Data Types:
+           - Country: String
+           - Year: Number (whole)
+           - All metrics: Number (decimal)
+           - Region_Type: String
+        
+        3. Add Relationships:
+           - Add 'tableau_predictions.csv'
+           - Create relationship on Country field
+           - Ensure relationship uses appropriate join type
+        
+        4. Create Calculated Fields:
+           - Year-over-Year Change
+           - % Difference from Prediction
+           - Regional Averages
+        
+        5. Test Connection:
+           - Create basic view with Country and any metric
+           - Verify numbers match source data
+           - Check for null values in view
+        

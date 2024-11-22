@@ -1,0 +1,79 @@
+Complete Country List:
+====================
+
+Afghanistan                              | 2022 | 86.0501112508465
+Africa Eastern and Southern              | 2022 | 25.6758787545077
+Africa Western and Central               | 2022 | 31.2335314124894
+Albania                                  | 2022 | 100.0
+Algeria                                  | 2022 | 0.322683798947644
+American Samoa                           | 2022 | 0.885478158205431
+Andorra                                  | 2022 | 86.1167002012072
+Angola                                   | 2022 | 53.1749283080705
+Antigua and Barbuda                      | 2022 | 0.0
+Arab World                               | 2022 | 2.92070168610513
+Argentina                                | 2022 | 28.1400691239471
+Armenia                                  | 2022 | 28.3369662777279
+Aruba                                    | 2022 | 14.8561614426793
+Australia                                | 2022 | 13.6378410946741
+Austria                                  | 2022 | 76.4907792691417
+Azerbaijan                               | 2022 | 7.0398574206092
+Bahamas, The                             | 2022 | 0.0
+Bahrain                                  | 2022 | 0.0
+Bangladesh                               | 2022 | 1.2268899018827
+Barbados                                 | 2022 | 0.0
+Belarus                                  | 2022 | 0.815679830995834
+Belgium                                  | 2022 | 20.8000230056939
+Belize                                   | 2022 | 45.2399304748245
+Benin                                    | 2022 | 5.55555555555556
+Bermuda                                  | 2022 | 0.0
+Bhutan                                   | 2022 | 99.9935464335397
+Bolivia                                  | 2022 | 31.4024390243902
+Bosnia and Herzegovina                   | 2022 | 35.5173075692623
+Botswana                                 | 2022 | 0.0337040781934614
+Brazil                                   | 2022 | 73.9669080481113
+British Virgin Islands                   | 2022 | 1.28626981752917
+Caribbean small states                   | 2022 | 8.91477955359129
+Central Europe and the Baltics           | 2022 | 20.2528514083871
+Early-demographic dividend               | 2022 | 18.1048615435489
+East Asia & Pacific                      | 2022 | 20.4124662224537
+East Asia & Pacific (IDA & IBRD countries) | 2022 | 23.2937330315463
+East Asia & Pacific (excluding high income) | 2022 | 23.3946853496816
+Euro area                                | 2022 | 28.718468796329
+Europe & Central Asia                    | 2022 | 28.020176437837
+Europe & Central Asia (IDA & IBRD countries) | 2022 | 19.1488620739772
+Europe & Central Asia (excluding high income) | 2022 | 18.6180188378284
+European Union                           | 2022 | 29.7153524985896
+Fragile and conflict affected situations | 2022 | 36.1866436756877
+Heavily indebted poor countries (HIPC)   | 2022 | 63.4212917803423
+High income                              | 2022 | 21.2575349240925
+IBRD only                                | 2022 | 23.6809578985987
+IDA & IBRD total                         | 2022 | 24.4305355547567
+IDA blend                                | 2022 | 31.6052727855271
+IDA only                                 | 2022 | 50.5805933423373
+IDA total                                | 2022 | 42.2242202978453
+Late-demographic dividend                | 2022 | 25.7983124625381
+Latin America & Caribbean                | 2022 | 51.7047484880064
+Latin America & Caribbean (excluding high income) | 2022 | 52.095055465217
+Latin America & the Caribbean (IDA & IBRD countries) | 2022 | 53.2443890816753
+Least developed countries: UN classification | 2022 | 52.1781243930469
+Low & middle income                      | 2022 | 23.9117873463394
+Low income                               | 2022 | 65.7620086927183
+Lower middle income                      | 2022 | 17.2470576925425
+Middle East & North Africa               | 2022 | 2.74145613367148
+Middle East & North Africa (IDA & IBRD countries) | 2022 | 5.09551590864519
+Middle East & North Africa (excluding high income) | 2022 | 5.09202005771151
+Middle income                            | 2022 | 23.5182692232048
+North America                            | 2022 | 19.9474593980516
+OECD members                             | 2022 | 23.3359634553772
+Other small states                       | 2022 | 25.8007304968731
+Pacific island small states              | 2022 | 30.3015624801353
+Post-demographic dividend                | 2022 | 22.3878543629964
+Pre-demographic dividend                 | 2022 | 40.5896443789291
+Small states                             | 2022 | 23.4181314357759
+South Asia                               | 2022 | 16.8677992619749
+South Asia (IDA & IBRD)                  | 2022 | 16.8677992619749
+Sub-Saharan Africa                       | 2022 | 26.6166370237832
+Sub-Saharan Africa (IDA & IBRD countries) | 2022 | 26.6166370237832
+Sub-Saharan Africa (excluding high income) | 2022 | 26.6374474267553
+Upper middle income                      | 2022 | 25.5438373107998
+World                                    | 2022 | 22.8544560815979
